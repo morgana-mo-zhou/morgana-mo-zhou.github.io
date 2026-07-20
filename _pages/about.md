@@ -13,7 +13,7 @@ Hi, my name is Morgana Mo Zhou (周末). I am a second-year PhD student in Compu
 
 - **UWB and Physical-Layer Security** — secure ranging protocols, distance-reduction attacks
 - **Wireless and IoT Security** — intrusion detection, secure IoT system design
-- **Signal Intelligence and Edge ML** — RF hardware fingerprinting, lightweight on-device learning
+- **Edge ML** — Lightweight on-device learning
 
 Feel free to reach out, I'm always happy to discuss research or explore potential collaborations.
 
