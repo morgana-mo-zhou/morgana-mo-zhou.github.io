@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Morgana Mo Zhou (周末). I am a second-year PhD student in Computer Science at the City University of Hong Kong (CityU), supervised by Prof. Gerhard P. Hancke. I received my Bachelor's degree in Information Engineering at CityU with First Class Honours. I received the Best Student Paper Award at IEEE INDIN 2024 (first author) and an Honorable Mention Award at CHI 2023 (co-first author).
+Hi, my name is Morgana Mo Zhou (周末). I am a second-year PhD student in Computer Science at the City University of Hong Kong (CityU), supervised by Prof. Gerhard P. Hancke. I obtained my Bachelor's degree in Information Engineering at CityU with First Class Honours. I received the Best Student Paper Award at IEEE INDIN 2024 (first author) and an Honorable Mention Award at CHI 2023 (co-first author).
 
 ## Research Interests
 
