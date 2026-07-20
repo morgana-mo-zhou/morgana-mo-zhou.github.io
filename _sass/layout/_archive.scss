@@ -71,7 +71,7 @@
 }
 
 .archive .archive__item-title--pub a {
-  color: #000;
+  color: var(--global-text-color);
   text-decoration: none;
 
   &:hover {
